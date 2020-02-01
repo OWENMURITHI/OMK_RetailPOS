@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMK_RetailManager", "OMK_RetailManager\OMK_RetailManager.csproj", "{2C5BE43C-5A76-49C8-AFE0-0000AF5668C7}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OMKData", "OMKData\OMKData.sqlproj", "{57889CB0-AB98-43D1-9850-E48DB5ACD601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{2C5BE43C-5A76-49C8-AFE0-0000AF5668C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C5BE43C-5A76-49C8-AFE0-0000AF5668C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C5BE43C-5A76-49C8-AFE0-0000AF5668C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57889CB0-AB98-43D1-9850-E48DB5ACD601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57889CB0-AB98-43D1-9850-E48DB5ACD601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57889CB0-AB98-43D1-9850-E48DB5ACD601}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{57889CB0-AB98-43D1-9850-E48DB5ACD601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57889CB0-AB98-43D1-9850-E48DB5ACD601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57889CB0-AB98-43D1-9850-E48DB5ACD601}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
