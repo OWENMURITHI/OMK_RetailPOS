@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMK_RetailManager", "OMK_Re
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OMKData", "OMKData\OMKData.sqlproj", "{57889CB0-AB98-43D1-9850-E48DB5ACD601}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMKDesktopUI", "OMKWPFUserInterface\OMKDesktopUI.csproj", "{2877933C-C0CB-488D-B2EF-0557AD16984E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{57889CB0-AB98-43D1-9850-E48DB5ACD601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57889CB0-AB98-43D1-9850-E48DB5ACD601}.Release|Any CPU.Build.0 = Release|Any CPU
 		{57889CB0-AB98-43D1-9850-E48DB5ACD601}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2877933C-C0CB-488D-B2EF-0557AD16984E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2877933C-C0CB-488D-B2EF-0557AD16984E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2877933C-C0CB-488D-B2EF-0557AD16984E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2877933C-C0CB-488D-B2EF-0557AD16984E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
